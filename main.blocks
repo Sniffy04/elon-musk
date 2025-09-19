@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id=";kf3bUXi@/_9)Ej5z1.f" x="156" y="-29"><statement name="HANDLER"><block type="device_print_message" id="U9s14Y-jWDGEpzMZNZJ2"><value name="text"><shadow type="text" id="/?Dpbd-/:{WDm+8NYNip"><field name="TEXT">HEIL HITLER</field></shadow></value></block></statement></block><block type="pxt-on-start" id="`6w@W6C?$x++~;1AI}Qu" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="8NYISo3VhABbDIN/X*1R"><field name="LEDS">`
+        # # # . # 
+        . . # . # 
+        # # # # # 
+        # . # . . 
+        # . # # #
+        `</field></block></statement></block><block type="every_interval" id="|R:)(8B3%::NjvJPJ.Aq" x="264" y="167"><value name="interval"><shadow type="longTimePicker" id="bDoerzKo/LXihd.)b%~j"><field name="ms">1000</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="1$%PPhw9@%Bgt?S-*/*b"><field name="LEDS">`
+        # # # . # 
+        . . # . # 
+        # # # # # 
+        # . # . . 
+        # . # # #
+        `</field></block></statement></block><block type="basic_show_icon" id="7[,R]|B-$rpJ{^YgIdYB" disabled-reasons="pxt_automatic_disabled" x="79" y="280"><field name="i">IconNames.Heart</field></block></xml>
